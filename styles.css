@@ -1,0 +1,17 @@
+body 
+{
+  background-color: lightseagreen;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+
+p {
+  font-family:  arial;
+  font-size: 21px;
+  text-align: center;
+
+}
