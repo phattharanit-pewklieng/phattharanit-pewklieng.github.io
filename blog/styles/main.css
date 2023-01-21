@@ -101,18 +101,6 @@ li a:hover {
 
 
 
-
-
-
-@media screen and (max-with:500px){
-  /*nav bar*/
-nav {
-float: none;
-display: block;
- }
-  
-}
-
 .lightbox {
 background-color: #1f2833 ;
 opacity: 0.9;
@@ -135,6 +123,8 @@ opacity: 0.9;
 padding: 20px;
 margin-left: 10%;
 margin-right: 10%;
+
+position: auto;
 }
 
 footer a {
