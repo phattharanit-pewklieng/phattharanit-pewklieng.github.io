@@ -1,6 +1,6 @@
 
 
-let play = ["&#128548", "&#128540 Heads" , "Tails &#128520", "&#128531"];
+let play = ["&#128548" ,"&#128522", "&#128536;", "&#128540" , "&#129297 You Win","&#128561;","&#128520", "&#128531", "&#128525", "&#128557 You Lose"];
 
 let randomButton = document.getElementById('random');
 let output2 = document.getElementById('output');
